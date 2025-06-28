@@ -10,6 +10,7 @@ responses = {
     "how are you": ["I'm good!", "Doing fine!"],
     "thanks": ["You're welcome!", "No problem!"],
     "default": ["Sorry, I didnt understand", "Can you say that again?"]
+    "good Morning":["HEY THERE GOOD MORNING!"]
 }
 
 def slow_print(message):
